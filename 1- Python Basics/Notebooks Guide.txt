@@ -1,0 +1,22 @@
+Python 1 :
+	1. Outputs and Inputs
+	2. Data Types :
+	   2.1.Premitive Data Types (built-in)
+	   2.2.Non-Premitive Data Types (user-defined)
+Python 2 : 
+	1. If , elif and else statments
+	2. For loops
+	3. While loops
+	4. Useful Operators : 	
+	    4.1.enumerate()
+	    4.2.zip()
+Pyhon 4 : 
+	1. Reading Files 
+	2. Writing Files
+	3. Appending Files
+	4. Usual Operators 
+	5. Random Module 
+	6. OS Module
+ 	7. Date and Time Modules
+
+Wait For Remaining Basics in Python 3
